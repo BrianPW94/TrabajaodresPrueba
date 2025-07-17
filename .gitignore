@@ -1,0 +1,4 @@
+﻿# Ignorar archivos de configuración con credenciales
+appsettings.Development.json
+appsettings.json
+appsettings.*.json
